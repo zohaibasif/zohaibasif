@@ -27,11 +27,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<!-- banner -->
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 <!-- about me -->
 ---
 
@@ -39,14 +34,18 @@
 
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 
-- :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
+- 🔭 I’m working as a Software Engineer and contributing to backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- 🤓 In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 😉 Even though I take my work seriously, I do have a good sense of humour.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- ⚡ I am always energetic and eager to learn new skills.
 
+<!-- - :seedling: Exploring Technical Content Writing. -->
+
+<!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+ -->
 <!-- languages and tools -->
 ---
 
