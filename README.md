@@ -5,13 +5,13 @@
 
 <!--  social badges -->
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/zohaib-asif-737856261/">
+  <a href="https://www.linkedin.com/in/zohaib-asif-737856261/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/zohaibdotasif/">
+  <a href="https://www.instagram.com/zohaibdotasif/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-red?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100089256195843">
+  <a href="https://www.facebook.com/profile.php?id=100089256195843" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
