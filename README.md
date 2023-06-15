@@ -5,7 +5,7 @@
 
 <!--  social badges -->
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/zohaib-asif-737856261/" target="_blank">
+  <a href="https://www.linkedin.com/in/zohaibdotasif" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/zohaibdotasif/" target="_blank">
